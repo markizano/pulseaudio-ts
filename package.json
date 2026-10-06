@@ -41,9 +41,6 @@
     "url": "https://github.com/tmigone/pulseaudio/issues"
   },
   "homepage": "https://github.com/tmigone/pulseaudio#readme",
-  "engines": {
-    "node": ">=10.0.0 <=24.21.0"
-  },
   "devDependencies": {
     "@types/node": "^14.0.13",
     "ava": "^3.8.2",
